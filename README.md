@@ -80,7 +80,19 @@ Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation),
 
 ## Citation
 
-A citation entry will be added when the proceedings are available.
+Preprint: [arXiv:2610.28348](https://arxiv.org/abs/2610.28348)
+
+```bibtex
+@misc{kizhakkethil2026characterizingcrossrelaygeneralizationfailure,
+      title={Characterizing Cross-Relay Generalization Failure in Machine Learning-Based Power System Protection},
+      author={Nithin Pradeep Nadayil Kizhakkethil and Julian Oelhaf and Christian Bergler and Andreas Maier and Siming Bayer},
+      year={2026},
+      eprint={2610.28348},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2610.28348},
+}
+```
 
 ## License
 
