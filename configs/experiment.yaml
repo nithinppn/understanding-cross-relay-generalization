@@ -1,0 +1,7 @@
+model: compact_mlp
+
+methodology: pairwise
+
+training: default
+
+seed: 42

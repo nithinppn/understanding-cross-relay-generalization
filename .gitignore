@@ -1,0 +1,43 @@
+# Virtual Environment
+.venv/
+
+# Helper functions
+helper/
+
+# Data
+hv_double_line_110kv/
+
+# Generated results / large artifacts
+results/tsne_study/
+results/**/models/
+*.pt
+
+# HPC logs
+logs/
+*.out
+*.err
+
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment / shell files
+.profile
+logs/
+results/
+*.log
+/*.png
+/*.csv
+/check_faults.py
+/plot_fault_signal.py
+*.backup
+run_exp.txt
+/stats.py
+/*.pdf
